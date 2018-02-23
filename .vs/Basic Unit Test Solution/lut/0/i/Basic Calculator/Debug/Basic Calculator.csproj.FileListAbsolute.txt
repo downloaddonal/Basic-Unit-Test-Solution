@@ -1,0 +1,10 @@
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Basic Calculator\bin\Debug\Basic Calculator.exe
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Basic Calculator\bin\Debug\Basic Calculator.pdb
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Basic Calculator\Debug\Basic Calculator.csprojResolveAssemblyReference.cache
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Basic Calculator\Debug\Basic_Calculator.Form1.resources
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Basic Calculator\Debug\Basic_Calculator.Properties.Resources.resources
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Basic Calculator\Debug\Basic Calculator.csproj.GenerateResource.Cache
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Basic Calculator\Debug\Basic Calculator.csproj.CoreCompileInputs.cache
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Basic Calculator\Debug\Basic Calculator.exe
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Basic Calculator\Debug\Basic Calculator.pdb

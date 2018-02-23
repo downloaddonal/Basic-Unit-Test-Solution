@@ -1,0 +1,9 @@
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Unit Tests\bin\Debug\Unit Tests.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\b\Unit Tests\bin\Debug\Unit Tests.pdb
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Unit Tests\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Unit Tests\Debug\Unit Tests.csproj.CoreCompileInputs.cache
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Unit Tests\Debug\Unit Tests.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\.vs\Basic Unit Test Solution\lut\0\i\Unit Tests\Debug\Unit Tests.pdb

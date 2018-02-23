@@ -1,0 +1,16 @@
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Unit Tests.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Unit Tests.pdb
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Basic Calculator.exe
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Basic Calculator.pdb
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Basic Calculator.exe.config
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\obj\Debug\Unit Tests.csproj.CoreCompileInputs.cache
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\obj\Debug\Unit Tests.dll
+M:\Eng\Feature Teams\FT12\Karl\Basic Unit Test Solution\Unit Tests\obj\Debug\Unit Tests.pdb
